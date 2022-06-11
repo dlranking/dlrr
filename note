@@ -1,0 +1,64 @@
+Autencoder
+    Basic
+        Evaluation Metrics
+    Variants of Autoencoder:    
+        WAE
+        VAE
+    Robust
+        ECML
+        KDD
+  
+Gans
+    Basic
+    BiGans
+
+Extending Classical Approach
+    SVDD
+    OCNN
+
+Real World UseCases
+    a) Unlabelled unsupervised ( No Labels)
+    b) Unsupervised: Labelled positive data,( Inlyers) (One class labels)
+
+Hands On 
+    ECML : Start with standard autoencoder.
+           Move foward towards robust autoencoder.
+           From Normal to Robust Loss function.
+           Data Set examples restaurant.
+
+/Users/cha764/Documents/projects/TransUrban/data/04_06_2020/Measurements/LGR15W
+
+
+
+
+Dear Author,
+
+Please remember to submit "Robust Deep Learning Methods for Anomaly Detection," for publication in the proceedings and ACM DL.
+
+********************************************************
+KDD'20 Proceedings Final Tutorial Abstract Submission Info
+********************************************************
+
+Authors/Speakers ~ You are receiving this email to provide you with the details of preparing/formatting and submitting the final version of your paper and associated preview video & video figure for inclusion in the proceedings and ACM DL.
+
+1. Your unique and individual KDD'20 ID# is at the end of the subject line above.
+
+2. Only the FIRST contact author has been sent the ACM rightsreview email for the electronic copyright-permission form shortly after this email. ACM only allows 1 author to be the recipient. Check with your co-authors first and your spam/junk email folders.
+ *If the e-form has not been received by Monday, please reply ALL to this email with which one/sole author should receive the form and we will update the rightsreview system and re-send.
+
+3. FINAL SUBMISSION DEADLINE: JUNE 28th
+
+4. Be sure to review the Preparation & Formatting Instructions and the specific & standard ACM template to be used for your final version: www.scomminc.com/pp/acmsig/kdd-tutorial.htm
+
+5. Authors must submit their final version only to the LINK BELOW, as the submission will trigger immediate subsequent processing for the proceedings and the ACM DL.
+ 
+6. AFTER YOU SUBMIT: After your successful submission, the contact author will immediately receive an online confirmation and a confirmation email to the contact email address specified and entered on the Sheridan-ACM submission form below.
+
+********************************************************
+
+The following is a direct link to submit based on your unique submission ID: http://www.scomminc.com/acm/submissions/submission.cfm?grid=ckddm2&eid=475B000501&eid2=67020606
+
+Thank you,
+
+
+Sheridan Communications
